@@ -38,5 +38,5 @@
 
 1. **Clona este repositorio o descarga los archivos.**
    ```bash
-   git clone https://github.com/tu_usuario/space_defender.git
-   cd space_defender
+   git clone https://github.com/Jostel28/Space_Prueba_Contratacion.git
+   cd Space
